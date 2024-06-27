@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <meta name="description" content="This is the most beautiful resume page ever built">
+<style>
+    body{
+        background-color: cornflowerblue;
+    }
+    h3{
+        color:black;
+        background-color: rgb(164, 154, 154);
+        border: 1px solid black;
+        padding: 5px;
+    }
+    img{
+        float:right;
+        border: 2px solid black;
+        width: 125px;
+    }
+    #main{
+        background-color: white;
+        width: 50%;
+        padding: 40px;
+        margin: 40px auto;
+        border-radius: 10px;
+        border: 2px solid black;
+    }
+</style>
+</head>
+<body>
+    
+    <section id="main">
+    <img src="https://e7.pngegg.com/pngimages/168/827/png-clipart-computer-icons-user-profile-avatar-profile-woman-desktop-wallpaper-thumbnail.png">
+    <h1>PETTUGANI PREETHIKA</h1>
+    <p>+91 8374716779</p>
+    <P>pettuganipreethika9434@gmail.com</P>
+    <h3>OBJECTIVE</h3>
+    <p>To work in a firm with a professional work driven environment where I can utilize and apply my knowledge , skills which would enable me as a fresh graduate to grow while fulfilling organizational goals.</p>
+    <h3>ACADAMIC DETAILS</h3>
+    <table border="1">
+        <tr>
+            <td>Class</td>
+            <td>Board</td>
+            <td>Percentage</td>
+        </tr>
+        <tr>
+            <td>Class 10</td>
+            <td>SSC Board</td>
+            <td>92%</td>
+        </tr>
+        <tr>
+            <td>Class 12</td>
+            <td>Intermediate</td>
+            <td>87%</td>
+        </tr>
+        <tr>
+            <td>B.Tech</td>
+            <td>JNTU</td>
+            <td>79%</td>
+        </tr>
+    </table>
+    <h3>PROJECT</h3>
+    <ul>
+        <li>Fake news detection using machine learning</li>
+        <li>web page-RESUME</li>
+    </ul>
+    <h3>SKILLS</h3>
+    <UL>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Python</li>
+    </UL>
+    <h3>INTERNSHIPS</h3>
+    <UL>
+        <li>Digital Marketing Rizzle, Virtual Jul 2021  </li>
+        <li>Volunteer (Promotion) Karunamayi Sewa Santhan, Virtual Jun 2021  </li>
+        <li>Campus Ambassador Casio India Company Private Limited, Virtual Dec 2020 - Feb 2021 </li>
+    </UL>
+
+    <h3>CERTIFICATES</h3>
+    <ul>
+        <li>C Programming-SSSIT </li>
+        <li>HTML-skillsbuild</li>
+    </ul>
+    <h3>HOBBIES</h3>
+    <ul>
+        <li>Listening to music </li>
+        <li>Making crafts</li>
+    </ul>
+   </section>
+
+</body>
+</html>
